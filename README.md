@@ -1,10 +1,11 @@
 # Docker
 
-
 [Download virtual box](https://www.virtualbox.org/wiki/Downloads)
-
+[Download CentOS](https://www.centos.org/download/)
+[Download ubuntu](https://ubuntu.com/)
 
 #### Reference
+
 - [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 - [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 - [쿠버네티스 시작하기 - Kubernetes란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
