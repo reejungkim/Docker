@@ -4,6 +4,23 @@
 [Download CentOS](https://www.centos.org/download/)
 [Download ubuntu](https://ubuntu.com/)
 
+| COMMAND    | 설명               |
+| ---------- | ------------------ |
+| FROM       | 베이스 이미지 지정 |
+| ADD        | 파일 추가          |
+| MAINTAINER | 작성자 지정        |
+| COPY       | 파일 복사          |
+| RUN        | 명령어 실행        |
+| VOLUME     | 볼륨 마운트        |
+| CMD        | 데몬 실행          |
+| ENTRYPOINT | 데몬 실행          |
+| LABEL      | 라벨 설정          |
+| USER       | 사용자 설정        |
+| EXPOSE     | 포트 내보내기      |
+| WORKDIR    | 작업 디렉토리 지정 |
+| ENV        | 환경 변수 설정     |
+| ONBUILD    | 빌드 후 실행 명령  |
+
 #### Reference
 
 - [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
