@@ -1,6 +1,8 @@
 # 1. CentOS 설치
 FROM CentOS
 
+MAINTAINER reejungkim <reejung.kim@gmail.com>
+
 # 2. 메타데이터 표시
 LABEL "purpose"="practice"
 
