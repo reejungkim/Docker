@@ -1,8 +1,8 @@
 # 1. CentOS 설치
 FROM CentOS
 
-MAINTAINER reejungkim <reejung.kim@gmail.com>
-
+LABEL email="reejung.kim@gmail.com"
+LABEL name="reejungkim"
 # 2. 메타데이터 표시
 LABEL "purpose"="practice"
 
