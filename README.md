@@ -1,10 +1,10 @@
 # Docker
 
-[Download virtual box](https://www.virtualbox.org/wiki/Downloads)
+- [Download virtual box](https://www.virtualbox.org/wiki/Downloads)
 
-[Download CentOS](https://www.centos.org/download/)
+- [Download CentOS](https://www.centos.org/download/)
 
-[Download ubuntu](https://ubuntu.com/)
+- [Download ubuntu](https://ubuntu.com/)
 
 | COMMAND    | 설명               |
 | ---------- | ------------------ |
@@ -22,6 +22,11 @@
 | WORKDIR    | 작업 디렉토리 지정 |
 | ENV        | 환경 변수 설정     |
 | ONBUILD    | 빌드 후 실행 명령  |
+
+```
+git clone https://github.com/Kaggle/docker-python.git
+./build --gpu
+```
 
 #### Reference
 
